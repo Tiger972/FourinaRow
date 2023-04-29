@@ -1,0 +1,3 @@
+C:/Users/Piquionne Andy/CLionProjects/Puissance4/cmake-build-debug/CMakeFiles/Puissance4.dir
+C:/Users/Piquionne Andy/CLionProjects/Puissance4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Piquionne Andy/CLionProjects/Puissance4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
